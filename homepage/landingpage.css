@@ -1,0 +1,41 @@
+/* h2{
+    position: relative;
+    left: 490px;
+    top:10px;
+} */
+
+img{
+    position: relative;
+    left: 400px;
+    top: 5px;
+}
+
+.texts{
+    position: absolute;
+    left: 400px;
+    top: 300px;
+}
+
+.textstwo{
+    position: absolute;
+    left: 400px;
+    top: 450px;
+    color: grey;
+}
+
+.btn button{
+    position: absolute;
+    left: 400px;
+    top: 600px;
+    padding: 10px;
+    background-color: #11FB27;
+}
+input{
+    position: absolute;
+    left: 900px;
+    top: 30px;
+    font-size: 15px;
+    height: 29px;
+    padding-left: 13px;
+    background: #D0F8B8;
+}
